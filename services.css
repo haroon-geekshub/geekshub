@@ -1,0 +1,86 @@
+*{
+	padding: 0; margin: 0 ; box-sizing: border-box;
+	font-family: 'Raleway', sans-serif;
+}
+.navbar-maindiv{
+	display: flex;
+}
+.menu ul {
+	display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-decoration: none;
+    padding: 50px;
+    width: 65%;
+}
+.m-img{
+	height: 331px;
+	position: absolute;
+	z-index: -1;
+	width: 55%;
+}
+.logo{
+	width: 40%;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.menu{
+	width: 50%;
+}
+.menu ul li a{
+	text-transform: capitalize;
+	text-decoration: none;
+	color: black;
+}
+.menu ul li a:hover{
+	color: #ef5737;
+}
+/*============ Main Section ===============*/
+	
+
+}
+.section_main{
+	display: flex;
+    justify-content: space-between;
+
+
+}
+.sec-main1{
+width: 50%;
+display: flex;
+flex-direction: column;
+
+
+}
+.pix img{
+	
+
+}
+/*.Agency-sec{
+	display: flex;
+	justify-content: center;*/
+	
+}
+/*.prgh1 {
+	display: flex;
+	justify-content: center;*/
+}
+.Agency-sec h2{
+	/*font-size: 40px;
+    line-height: 1.2;
+    font-weight: 600;
+    padding-bottom: 20px;*/
+}
+..Agency-sec p{
+
+}
+
+.pix2{
+	
+}
+.img1{
+	display: flex;
+	justify-content: flex-end;
+
+}
